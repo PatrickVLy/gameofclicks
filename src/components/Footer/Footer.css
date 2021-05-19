@@ -1,0 +1,15 @@
+a,a:hover {
+    color: white;
+}
+
+table {
+    height: 100px;
+    background-color: #2c323c;
+    border-top: 5px solid black;
+    width: 100%;
+    color: white;
+}
+
+.spacer {
+    margin-bottom: 10px;
+}
