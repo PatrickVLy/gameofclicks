@@ -1,0 +1,17 @@
+.header {
+  background-color: #ffffff;
+  color: white;
+  min-height: 100px;
+  border-bottom: 5px solid black;
+}
+
+@font-face {
+  font-family: gameofthrones;
+  src: url(/src/assets/fonts/gameofthrones.ttf);
+}
+
+h1 {
+  font-family: gameofthrones;
+  font-size: 5em;
+  color: black
+}
