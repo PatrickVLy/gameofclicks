@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "count": 0,
+		"name": "Arya",
+    "image": "./images/aryastark.jpg"
+  },
+
+  {
+    "id": 2,
+    "count": 0,
+		"name": "Bran",
+    "image": "./images/branstark.jpg"
+  },
+  {
+    "id": 3,
+    "count": 0,
+		"name": "Brienne",
+    "image": "./images/brienne.jpg"
+  },
+  {
+    "id": 4,
+    "count": 0,
+		"name": "Cersei",
+    "image": "./images/cerseilannister.jpg"
+  },
+  {
+    "id": 5,
+    "count": 0,
+		"name": "Daenerys",
+    "image": "./images/daenerys.jpg"
+  },
+  {
+    "id": 6,
+    "count": 0,
+		"name": "Greyworm",
+    "image": "./images/greyworm.jpg"
+  },
+  {
+    "id": 7,
+    "count": 0,
+		"name": "Hodor",
+    "image": "./images/hodor.jpg"
+  },
+  {
+    "id": 8,
+    "count": 0,
+		"name": "Jaime",
+    "image": "./images/jaimelannister.jpg"
+  },
+  {
+    "id": 9,
+    "count": 0,
+		"name": "Jon",
+    "image": "./images/jonsnow.jpg"
+  },
+  {
+    "id": 10,
+    "count": 0,
+		"name": "Sansa",
+    "image": "./images/sansastark.jpg"
+  },
+  {
+    "id": 11,
+    "count": 0,
+		"name": "Tommen",
+    "image": "./images/Tommen.jpg"
+  },
+  {
+    "id": 12,
+    "count": 0,
+		"name": "Tyrion",
+    "image": "./images/tyrionlannister.jpg"
+  }
+] 
